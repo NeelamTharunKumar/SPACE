@@ -1,0 +1,2 @@
+git clone https://github.com/spantaleev/matrix-docker-ansible-deploy.git
+cd matrix-docker-ansible-deploy
